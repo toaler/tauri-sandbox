@@ -3,6 +3,7 @@
 ❯ sh <(curl https://create.tauri.app/sh) 
 ❯ npm install
 ❯ npm run tauri init
+❯ npm run build
 ❯ npm run tauri dev
 ❯ npm run tauri build
 
